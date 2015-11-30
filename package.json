@@ -1,25 +1,30 @@
 {
-  "name": "inuit-lists",
-  "version": "0.1.0",
-  "description": "Base list styles for the inuitcss framework",
+  "name": "aleut-lists",
+  "version": "0.2.0",
+  "description": "Base image styles for the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_base.lists.scss",
   "repository": {
     "type": "git",
-    "url": "https://github.com/inuitcss/base.lists.git"
+    "url": "https://github.com/aleutcss/base.lists.git"
   },
-  "author": "Harry Roberts <harry@csswizardry.com>",
+  "contributors": [
+    {"name": "Marius Hauken", "url": "http://twitter.com/mhauken", "email": "hauken@netliferesearch.com"},
+    {"name": "Robin Sandborg", "url": "http://twitter.com/robrobro", "email": "robin@netliferesearch.com"},
+    {"name": "Knut Melvær", "url": "http://twitter.com/kmelve", "email": "knut@netliferesearch.com"}
+  ],
   "license": "Apache 2",
   "bugs": {
-    "url": "https://github.com/inuitcss/base.lists/issues"
+    "url": "https://github.com/aleutcss/base.lists/issues"
   },
-  "homepage": "https://github.com/inuitcss/base.lists",
+  "homepage": "https://github.com/aleutcss/base.lists",
   "keywords": [
-    "inuitcss",
+    "aleutcss",
+    "aleut",
     "oocss",
     "css"
   ],
   "dependencies": {
-    "inuit-defaults": "~0.2.0",
-    "inuit-mixins": "~0.2.2"
+    "aleut-defaults": "~0.3.0",
+    "aleut-mixins": "~0.3.0"
   }
 }
