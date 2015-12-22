@@ -1,6 +1,6 @@
 # Lists
 
-The inuitcss `lists` module provides very basic styling for regular ordered and
+The aleutcss `lists` module provides very basic styling for regular ordered and
 unordered lists.
 
 Install using Bower:
