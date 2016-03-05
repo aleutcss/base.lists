@@ -7,4 +7,6 @@ unordered lists.
 
 ## Install using npm:
 
+```shell
     $ npm install --save-dev aleut-lists
+```
