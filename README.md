@@ -8,5 +8,5 @@ unordered lists.
 ## Install using npm:
 
 ```shell
-    $ npm install --save-dev aleut-lists
+    $ npm install --save-dev @aleut/base.lists
 ```
